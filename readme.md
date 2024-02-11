@@ -23,4 +23,8 @@ This project implements a secure user authentication and authorization system us
 - MONGO_URI=your_mongodb_uri 
 - JWT_SECRET=your_jwt_secret
 
+## Run
+
+- npm install
+- npm start
 
